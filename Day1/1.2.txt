@@ -1,4 +1,4 @@
-public class NewProgram {
+public class NewProgram1 {
 
         static byte b;
         static short s;
