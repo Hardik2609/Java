@@ -1,4 +1,4 @@
-public class NewProgram {
+public class NewProgram2 {
 
     static int x = 10;
     static int y;
