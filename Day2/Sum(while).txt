@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Sum {
+        public static void main(String[] args)
+        {
+            int N, i = 1, sum = 0;
+            System.out.println("Enter the value of N: ");
+            Scanner in= new Scanner(System.in);
+            N= in.nextInt();
+
+            while(i <= N)
+            {
+
+                sum = sum + i;
+
+                i++;
+            }
+
+            System.out.println("Sum of First N Natural Numbers is = " + sum);
+        }
+    }
+
