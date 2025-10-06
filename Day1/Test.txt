@@ -1,2 +1,6 @@
 TestABCD
+<<<<<<< HEAD
 Hello World
+=======
+Hello Accenture
+>>>>>>> 19a8664705869580e30025f848fd2a7ed0dbd466
